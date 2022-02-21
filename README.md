@@ -10,6 +10,9 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio-424040?logo=visual-studio&logoColor=44a5e6&style=plastic)
 ![HTML5](https://img.shields.io/badge/-HTML5-cf250e?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/-CSS3-0817e2?logo=css3&logoColor=white&style=plastic)
+![BootStrap](https://img.shields.io/badge/-BootStrap-530097?logo=bootstrap&logoColor=white&style=plastic)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=plastic)
+![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35BDB2?logo=semantic-ui-react&logoColor=white&style=plastic)
 
 
 Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
