@@ -7,7 +7,7 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 
 [![alt-text](url-from-shieldsio)](url-you-wnat-point-to)
 
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
