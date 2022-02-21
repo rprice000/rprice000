@@ -21,15 +21,15 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react.js&logoColor=black&style=plastic)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic)
 ![Express.js](https://img.shields.io/badge/-Express.js-70706f?logo=express&logoColor=white&style=plastic)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white&style=plastic)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20Server-311C87?logo=apollo-graphql&logoColor=white&style=plastic)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=plastic)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=plastic)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
 
-Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+## Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rprice000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
