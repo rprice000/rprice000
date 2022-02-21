@@ -6,9 +6,8 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 ## Technologies & Skills
 
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio-424040?logo=visual-studio&logoColor=44a5e6&style=plastic)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-cf250e?logo=html5&logoColor=white&style=plastic)
-
+![CSS3](https://img.shields.io/badge/-CSS3-0817e2?logo=css3&logoColor=white&style=plastic)
 
 Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
