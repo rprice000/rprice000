@@ -13,6 +13,12 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 ![BootStrap](https://img.shields.io/badge/-BootStrap-530097?logo=bootstrap&logoColor=white&style=plastic)
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=plastic)
 ![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35BDB2?logo=semantic-ui-react&logoColor=white&style=plastic)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![JQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=plastic)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)
+
+
+
 
 
 Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
