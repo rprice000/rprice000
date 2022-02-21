@@ -19,9 +19,12 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![GitHub](https://img.shields.io/badge/Visual%20Studio?color=44a5e6&label=VS%20Code&logo=Visual%20Studio&logoColor=44a5e6)
+![GitHub](https://img.shields.io/badge/Visual%20Studio-44a5e6?style=for-the-badge&logo=Visual%20Studio)
 
 ![GitHub](https://img.shields.io/github/license/rprice000/rprice000?color=44a5e6&label=VS%20Code&logo=Visual%20Studio&logoColor=44a5e6)
+
+
+![VSCode](https://img.shields.io/badge/-Visual%20Studio-424040?logo=visual-studio&logoColor=44a5e6&style=plastic)
 
 Glad to see you here! [visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
