@@ -29,6 +29,12 @@ My name is Reagan Price.  I am a Web Developer able to build web applications fr
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
 
 
+## Links
+
+- LindedIn:    www.linkedin.com/in/reagan-price-967a25101
+- Web Portfolio:    https://rprice000.github.io/portfolio-v3/
+
+
 ## Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rprice000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
